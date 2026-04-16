@@ -82,6 +82,7 @@ The dataset contains customer shopping behavior information, including:
 * Customer demographics insights
 * Top-performing products and categories
 * Revenue distribution visualization
+<img width="1162" height="615" alt="Screenshot 2026-04-17 011554" src="https://github.com/user-attachments/assets/1d4c30cc-b48d-4afc-947c-cf25061c3f7d" />
 
 ---
 
@@ -138,7 +139,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 For any queries or collaboration:
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/Tanisha-Jain-1211
 
 ---
 
